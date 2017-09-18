@@ -1,0 +1,28 @@
+C:\Users\M_Witowski.ITB\Documents\SharpDevelop Projects\raport interoop\raport interoop\bin\Debug\Formularz TRX.exe.config
+C:\Users\M_Witowski.ITB\Documents\SharpDevelop Projects\raport interoop\raport interoop\bin\Debug\Formularz TRX.exe
+C:\Users\M_Witowski.ITB\Documents\SharpDevelop Projects\raport interoop\raport interoop\bin\Debug\Formularz TRX.pdb
+C:\Users\M_Witowski.ITB\Documents\SharpDevelop Projects\raport interoop\raport interoop\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\M_Witowski.ITB\Documents\SharpDevelop Projects\raport interoop\raport interoop\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\M_Witowski.ITB\Documents\SharpDevelop Projects\raport interoop\raport interoop\obj\Debug\Formularz TRX.csproj.ResolveComReference.cache
+C:\Users\M_Witowski.ITB\Documents\SharpDevelop Projects\raport interoop\raport interoop\obj\Debug\raport_interoop.MainForm.resources
+C:\Users\M_Witowski.ITB\Documents\SharpDevelop Projects\raport interoop\raport interoop\obj\Debug\Formularz TRX.csproj.GenerateResource.Cache
+C:\Users\M_Witowski.ITB\Documents\SharpDevelop Projects\raport interoop\raport interoop\obj\Debug\Formularz TRX.exe
+C:\Users\M_Witowski.ITB\Documents\SharpDevelop Projects\raport interoop\raport interoop\obj\Debug\Formularz TRX.pdb
+C:\Users\M_Witowski.ITB\Documents\SharpDevelop Projects\raport interoop\raport interoop\obj\Debug\raport_interoop.Loading.resources
+C:\Users\M_Witowski.ITB\Documents\SharpDevelop Projects\raport interoop\raport interoop\obj\Debug\Formularz TRX.csprojResolveAssemblyReference.cache
+C:\Users\M_Witowski.ITB\Documents\SharpDevelop Projects\raport interoop\raport interoop\obj\Debug\raport_interoop.image.Resource2.resources
+C:\Users\M_Witowski.ITB\Documents\SharpDevelop Projects\raport interoop\raport interoop\obj\Debug\raport_interoop.Resource1.resources
+C:\Users\M_Witowski\Documents\SharpDevelop Projects\raport interoop\raport interoop\bin\Debug\Formularz TRX.exe.config
+C:\Users\M_Witowski\Documents\SharpDevelop Projects\raport interoop\raport interoop\bin\Debug\Formularz TRX.exe
+C:\Users\M_Witowski\Documents\SharpDevelop Projects\raport interoop\raport interoop\bin\Debug\Formularz TRX.pdb
+C:\Users\M_Witowski\Documents\SharpDevelop Projects\raport interoop\raport interoop\obj\Debug\Formularz TRX.csprojResolveAssemblyReference.cache
+C:\Users\M_Witowski\Documents\SharpDevelop Projects\raport interoop\raport interoop\obj\Debug\Formularz TRX.csproj.ResolveComReference.cache
+C:\Users\M_Witowski\Documents\SharpDevelop Projects\raport interoop\raport interoop\obj\Debug\raport_interoop.Loading.resources
+C:\Users\M_Witowski\Documents\SharpDevelop Projects\raport interoop\raport interoop\obj\Debug\raport_interoop.MainForm.resources
+C:\Users\M_Witowski\Documents\SharpDevelop Projects\raport interoop\raport interoop\obj\Debug\Formularz TRX.csproj.GenerateResource.Cache
+C:\Users\M_Witowski\Documents\SharpDevelop Projects\raport interoop\raport interoop\obj\Debug\Formularz TRX.exe
+C:\Users\M_Witowski\Documents\SharpDevelop Projects\raport interoop\raport interoop\obj\Debug\Formularz TRX.pdb
+C:\Users\M_Witowski\Documents\SharpDevelop Projects\raport interoop\raport interoop\obj\Debug\raport_interoop.image.Resource2.resources
+C:\Users\M_Witowski\Documents\SharpDevelop Projects\raport interoop\raport interoop\obj\Debug\raport_interoop.Resource1.resources
+C:\Users\M_Witowski\Documents\SharpDevelop Projects\raport interoop\raport interoop\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\M_Witowski\Documents\SharpDevelop Projects\raport interoop\raport interoop\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
